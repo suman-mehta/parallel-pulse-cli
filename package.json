@@ -1,0 +1,13 @@
+{
+  "name": "parallel-pulse-cli",
+  "version": "1.0.0",
+  "description": "Lightning‑fast concurrency primitives and system introspection for Node.js",
+  "type": "module",
+  "bin": {
+    "parallel-pulse": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["developer-tools","automation","cli","nodejs","concurrency","benchmark"]
+}
